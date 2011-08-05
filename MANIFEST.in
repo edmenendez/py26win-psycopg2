@@ -1,2 +1,3 @@
 include runner README _psycopg.pyd
 recursive-include psycopg2 *
+recursive-include psycopg2/tests *

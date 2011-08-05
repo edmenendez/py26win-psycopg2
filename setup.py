@@ -3,7 +3,7 @@ from distutils.core import setup
 #This is a list of files to install, and where
 #(relative to the 'root' dir, where setup.py is)
 #You could be more specific.
-files = ["*.py", "*.pyd", "_psycopg.pyd",]
+files = ["*.py", "*.pyd", "psycopg2/_psycopg.pyd",]
 
 setup(name = "win32-py26-psycopg2",
     version = "1.0",
