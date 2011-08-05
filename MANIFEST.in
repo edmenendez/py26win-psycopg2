@@ -1,2 +1,2 @@
-include runner README
+include runner README _psycopg.pyd
 recursive-include psycopg2 *
