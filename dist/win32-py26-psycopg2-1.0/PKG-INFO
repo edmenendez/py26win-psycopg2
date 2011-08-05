@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: win32-py26-psycopg2
+Version: 1.0
+Summary: This contains psycopg2 compiled for Windows Python 2.6
+Home-page: http://menendez.com
+Author: Ed Menendez
+Author-email: ed@menendez.com
+License: UNKNOWN
+Description: This will work with virtualenv on Windows.
+Platform: UNKNOWN
